@@ -1,0 +1,7 @@
+{
+  "name": "gitnews",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
